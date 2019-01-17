@@ -3,6 +3,6 @@ Este é um repositório teste para ensinar como o Git funciona.
 
 Este curso é muito bom <3
 
-Experimente você também
+Experimente você também <3
 
 
